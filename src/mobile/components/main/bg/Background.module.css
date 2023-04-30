@@ -1,0 +1,29 @@
+
+.bg {
+    position: absolute;
+    width: 320px;
+    height: 445px;
+    left: 0px;
+    top: 0px;
+
+}
+
+.noise {
+    position: absolute;
+    width: 320px;
+    height: 445px;
+    left: 0px;
+    top: 0px;
+
+    mix-blend-mode: overlay;
+}
+
+.glass {
+    position: absolute;
+    width: 320px;
+    height: 445px;
+    left: 0px;
+    top: 0px;
+
+    background: radial-gradient(238.53% 189.02% at 3.2% 3.49%, rgba(255, 246, 233, 0.1) 0%, rgba(26, 29, 35, 0.1) 26.62%, rgba(26, 29, 35, 0.1) 52.1%, rgba(26, 29, 35, 0.01) 70.17%, rgba(26, 29, 35, 0) 100%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
+}

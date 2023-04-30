@@ -1,0 +1,24 @@
+
+.logo_welbex {
+    position: absolute;
+    width: 140px;
+    height: 24px;
+    left: 0px;
+    top: 11px;
+}
+
+.part1 {
+    position: absolute;
+    width: 35px;
+    height: 24px;
+    left: 0px;
+    top: 0px;
+}
+
+.part2 {
+    position: absolute;
+    width: 97px;
+    height: 15px;
+    left: 43px;
+    top: 5px;
+}

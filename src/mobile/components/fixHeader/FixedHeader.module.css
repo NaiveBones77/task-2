@@ -1,0 +1,101 @@
+
+.fixedHeader {
+    position: sticky;
+    width: 320px;
+    height: 55px;
+    left: 0px;
+    top: 0px;
+    background: #0E1014;
+}
+
+
+.t1 {
+    position: absolute;
+    width: 49px;
+    height: 15px;
+    left: 16px;
+    top: 20px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 15px;
+    /* identical to box height */
+
+    text-transform: uppercase;
+
+    /* light text */
+
+    color: #E4E5EA;
+
+}
+
+
+.t2 {
+    position: absolute;
+    width: 44px;
+    height: 15px;
+    left: 260px;
+    top: 20px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 15px;
+    /* identical to box height */
+
+    text-transform: uppercase;
+
+    /* light text */
+
+    color: #E4E5EA;
+
+}
+
+.t3 {
+    position: absolute;
+    width: 83px;
+    height: 15px;
+    left: 161px;
+    top: 20px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 15px;
+    /* identical to box height */
+
+    text-transform: uppercase;
+
+    /* light text */
+
+    color: #E4E5EA;
+}
+
+.t4 {
+    position: absolute;
+    width: 64px;
+    height: 15px;
+    left: 81px;
+    top: 20px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 15px;
+    /* identical to box height */
+
+    text-transform: uppercase;
+
+    /* light text */
+
+    color: #E4E5EA;
+}
+
+.t1, .t2, .t3, .t4:hover {
+    cursor: pointer;
+}

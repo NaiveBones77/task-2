@@ -1,0 +1,247 @@
+
+.t1 {
+    position: absolute;
+    width: 275px;
+    height: 44px;
+    left: 148px;
+    top: 413px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+
+    /* light text */
+
+    color: #E4E5EA;
+}
+
+.t2 {
+    position: absolute;
+    width: 257px;
+    height: 58px;
+    left: 147px;
+    top: 325px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 48px;
+    line-height: 58px;
+    /* identical to box height */
+
+
+    background: linear-gradient(92deg, #FCB045 27.14%, #FF3F78 121.36%), #E4E5EA;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-fill-color: transparent;
+}
+
+.t3 {
+    position: absolute;
+    width: 362px;
+    height: 116px;
+    left: 147px;
+    top: 209px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 58px;
+
+    color: #E4E5EA;
+}
+
+.t4 {
+    position: absolute;
+    width: 291px;
+    height: 44px;
+    left: 999px;
+    top: 224px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: right;
+
+
+    /* light text */
+
+
+    color: #E4E5EA;
+
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.t4 span {
+    background: linear-gradient(90deg, #FCB045 36.99%, #FD1D1D 100%),
+    linear-gradient(0deg, #E4E5EA, #E4E5EA);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.t5 {
+    position: absolute;
+    width: 164px;
+    height: 40px;
+    left: 961px;
+    top: 434px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: right;
+
+    color: #E4E5EA;
+
+}
+
+.t6 {
+    position: absolute;
+    width: 134px;
+    height: 22px;
+    left: 992px;
+    top: 406px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    /* identical to box height */
+
+    text-align: right;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+
+    /* light text */
+
+    color: #E4E5EA;
+
+}
+
+.t7 {
+    position: absolute;
+    width: 130px;
+    height: 40px;
+    left: 1161px;
+    top: 434px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: right;
+
+    color: #E4E5EA;
+}
+
+.t8 {
+    position: absolute;
+    width: 85px;
+    height: 22px;
+    left: 1206px;
+    top: 406px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    /* identical to box height */
+
+    text-align: right;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+
+    /* light text */
+
+    color: #E4E5EA;
+}
+
+.t9 {
+    position: absolute;
+    width: 135px;
+    height: 40px;
+    left: 1156px;
+    top: 336px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: right;
+
+    color: #E4E5EA;
+}
+
+.t10 {
+    position: absolute;
+    width: 120px;
+    height: 22px;
+    left: 1171px;
+    top: 308px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    /* identical to box height */
+
+    text-align: right;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+
+    /* light text */
+
+    color: #E4E5EA;
+}
+
+.t11 {
+    position: absolute;
+    width: 101px;
+    height: 22px;
+    left: 1024px;
+    top: 308px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    /* identical to box height */
+
+    text-align: right;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+
+    /* light text */
+
+    color: #E4E5EA;
+}
+
+.t12 {
+    position: absolute;
+    width: 89px;
+    height: 40px;
+    left: 1036px;
+    top: 336px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: right;
+
+    color: #E4E5EA;
+}

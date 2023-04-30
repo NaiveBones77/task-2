@@ -1,0 +1,74 @@
+
+.footer {
+    position: absolute;
+    width: 1141px;
+    height: 315px;
+    left: 149px;
+    bottom: 0px;
+
+}
+
+
+.telegram {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 1061px;
+    top: 132px;
+}
+
+.telegram:hover {
+    cursor: pointer;
+}
+
+.Vector {
+    position: absolute;
+    left: 8.33%;
+    right: 8.27%;
+    top: 15.03%;
+    bottom: 15.03%;
+
+    /* light text */
+
+}
+
+.viber {
+    position: absolute;
+    width: 20px;
+    height: 19px;
+    left: 1091px;
+    top: 132px;
+}
+
+.viber:hover {
+    cursor: pointer;
+}
+
+.phone {
+    position: absolute;
+    width: 16px;
+    height: 15.2px;
+    left: 2px;
+    top: 2px;
+
+}
+
+.whatsapp {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 1121px;
+    top: 131px;
+}
+
+.whatsapp:hover {
+    cursor: pointer;
+}
+
+.whatsappImg {
+    position: absolute;
+    left: 10%;
+    right: 10%;
+    top: 10%;
+    bottom: 10%;
+}

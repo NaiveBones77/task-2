@@ -1,0 +1,89 @@
+.main {
+    position: absolute;
+    width: 320px;
+    height: 451px;
+    left: 0px;
+    top: 55px;
+}
+
+.t1 {
+    position: absolute;
+    width: 186px;
+    height: 44px;
+    left: 15px;
+    top: 128px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 36px;
+    line-height: 44px;
+    /* identical to box height */
+
+
+    background: linear-gradient(92deg, #FCB045 27.14%, #FF3F78 121.36%), #E4E5EA;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-fill-color: transparent;
+}
+
+.t2 {
+    position: absolute;
+    width: 272px;
+    height: 88px;
+    left: 14px;
+    top: 40px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 44px;
+
+    /* light text */
+
+    color: #E4E5EA;
+}
+
+.t3 {
+    position: absolute;
+    width: 271px;
+    height: 44px;
+    left: 14px;
+    top: 187px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+
+    /* light text */
+
+    color: #E4E5EA;
+}
+
+.t4 {
+    position: absolute;
+    width: 272px;
+    height: 44px;
+    left: 15px;
+    top: 276px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+
+    /* light text */
+
+    color: #E4E5EA;
+}
+
+.t4 span {
+    background: linear-gradient(92deg, #FCB045 27.14%, #FF3F78 121.36%), #E4E5EA;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-fill-color: transparent;
+}

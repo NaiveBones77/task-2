@@ -1,0 +1,100 @@
+.menu {
+    position: absolute;
+    width: 503px;
+    height: 19px;
+    left: 192px;
+    top: 15px;
+}
+
+.menu div:hover {
+    cursor: pointer;
+}
+
+.m1 {
+    position: absolute;
+    width: 54px;
+    height: 19px;
+    left: 0px;
+    top: 0px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+
+    /* light text */
+
+    color: #E4E5EA;
+}
+
+.m2 {
+    position: absolute;
+    width: 109px;
+    height: 19px;
+    left: 394px;
+    top: 0px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+
+    /* light text */
+
+    color: #E4E5EA;
+}
+.m3 {
+    position: absolute;
+    width: 51px;
+    height: 19px;
+    left: 313px;
+    top: 0px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+
+    /* light text */
+
+    color: #E4E5EA;
+}
+
+.m4 {
+    position: absolute;
+    width: 95px;
+    height: 19px;
+    left: 188px;
+    top: 0px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+
+    /* light text */
+
+    color: #E4E5EA;
+}
+
+.m5 {
+    position: absolute;
+    width: 74px;
+    height: 19px;
+    left: 84px;
+    top: 0px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+
+    /* light text */
+
+    color: #E4E5EA;
+}

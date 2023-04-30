@@ -1,0 +1,166 @@
+
+
+.frame105 {
+    position: absolute;
+    width: 141px;
+    height: 16px;
+    left: 140px;
+    top: 370px;
+}
+
+hr {
+    /*background: -webkit-linear-gradient(90deg, #FCB045 36.99%, #FD1D1D 100%);*/
+    /*border: 1px solid;*/
+    /*border-image-source: -webkit-linear-gradient(90deg, #FCB045 36.99%, #FD1D1D 100%);*/
+    background: linear-gradient(90deg, #FCB045 36.99%, #FD1D1D 100%);
+    border: 1px solid;
+    border-image: linear-gradient(90deg, #FCB045 36.99%, #FD1D1D 100%);
+
+}
+
+.hr105 {
+    position: absolute;
+    height: 0.5px;
+    width: 10px;
+    left: 0px;
+    top: 0px;
+
+}
+
+.t1 {
+    position: absolute;
+    width: 126px;
+    height: 16px;
+    left: 15px;
+    top: 0px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 16px;
+    /* identical to box height */
+
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+
+    /* light text */
+
+    color: #E4E5EA;
+}
+
+.frame103 {
+    position: absolute;
+    width: 109px;
+    height: 16px;
+    left: 16px;
+    top: 370px;
+}
+
+.hr103 {
+    position: absolute;
+    width: 10px;
+    height: 0.5px;
+    left: 0px;
+    top: 0px;
+}
+
+.t2 {
+    position: absolute;
+    width: 94px;
+    height: 16px;
+    left: 15px;
+    top: 0px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 16px;
+    /* identical to box height */
+
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+
+    /* light text */
+
+    color: #E4E5EA;
+}
+
+.frame102 {
+    position: absolute;
+    width: 114px;
+    height: 16px;
+    left: 16px;
+    top: 340px;
+}
+
+.hr102 {
+    position: absolute;
+    width: 10px;
+    height: 0.5px;
+    left: 0px;
+    top: 0px;
+
+}
+
+.t3 {
+    position: absolute;
+    width: 99px;
+    height: 16px;
+    left: 15px;
+    top: 0px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 16px;
+    /* identical to box height */
+
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+
+    /* light text */
+
+    color: #E4E5EA;
+}
+
+.frame104 {
+    position: absolute;
+    width: 122px;
+    height: 16px;
+    left: 140px;
+    top: 340px;
+}
+
+.hr104 {
+    position: absolute;
+    width: 10px;
+    height: 0.5px;
+    left: 0px;
+    top: 0px;
+}
+
+.t4 {
+    position: absolute;
+    width: 107px;
+    height: 16px;
+    left: 15px;
+    top: 0px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 16px;
+    /* identical to box height */
+
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+
+    /* light text */
+
+    color: #E4E5EA;
+
+}
